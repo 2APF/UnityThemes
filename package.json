@@ -12,10 +12,11 @@
     "contributes": {
         "themes": [
             {
-                "label": "UnityThemes",
+                "label": "UnityThemes",  
                 "uiTheme": "vs-dark",
                 "path": "./themes/UnityThemes-color-theme.json"
             }
         ]
     }
+    
 }
