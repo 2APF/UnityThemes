@@ -19,7 +19,7 @@
           <i>Youtube</i>
         </a> / 
         <a href="https://www.instagram.com/danielfilipe7387/">
-          Instagran
+          <i>Instagran</i>
         </a>
   <br />
   <br />
