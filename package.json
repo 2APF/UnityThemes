@@ -3,11 +3,17 @@
     "displayName": "UnityTheme",
     "description": "Designed with the Unity engine colors to give a familiarity or VsCode source code editor to facilitate the Developer in their Theme preference",
     "version": "0.0.1",
+    "publisher": "DanielUnity2021",
     "engines": {
         "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
+    ],"keywords": [
+        "UnityThemes",
+        "Unity",
+        "Themes",
+        "ThemesUnity"
     ],
     "contributes": {
         "themes": [
